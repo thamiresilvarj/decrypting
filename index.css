@@ -1,0 +1,25 @@
+body {
+    background-color: rgba(187, 127, 255, 0.699);
+    text-align: center;
+
+}
+h2 {
+    color: white;
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+.container {
+    text-align: center;
+}
+
+input {
+  height: 40px;
+}
+
+button {
+  background-color: aquamarine;
+}
